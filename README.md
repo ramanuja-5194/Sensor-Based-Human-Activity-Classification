@@ -1,5 +1,4 @@
-# PIRvision Occupancy Detection Using LSTM with 5-Fold Cross-Validation
-
+# PIRvision Occupancy Detection Using LSTM
 This project demonstrates the development of an LSTM-based model for occupancy detection using the PIRvision dataset. The system analyzes sensor data to determine room occupancy, utilizing deep learning techniques with comprehensive validation and evaluation procedures.
 
 ## 📋 Overview
